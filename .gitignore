@@ -1,0 +1,10 @@
+.idea/
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+SINet/Snapshot/2026-Syndata/best_model.pth
+*.pth
